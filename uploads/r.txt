@@ -1,0 +1,55 @@
+Jayesh Khairnar
+Nashik, Maharashtra
+connectwithjayeshk@gmail.com
++91 7028 1565 45
+
+----Work Experience
+
+Full Stack Developer
+Meraki Digital Media - Nashik, Maharashtra
+July 2020 to February 2021
+Meraki Digital Media One of the Leading Digital Markeng Agency in Nashik.
+Parcipated in analysis , design and new development of next generation application Designed, developed and tested small, medium and large-scale soware enhancements with other engineers.
+Tested changes to use rinterace, applicaon funconal and database access as required by the client organizaons.
+Cordinated closely with programmers to ensure proper implementaon of Angular based Frontend with Backend as PHP.
+Implemantaon of Cron Jobs to execute Query Automation.
+Implementaon of Data Tables, AJAX to make the applicaon load and execute faster.
+
+Projects
+Justclickproperes.com - Frontend and Backend
+https://hotels.routemate.in - Frontend and Backend
+Sai Dairy: Anugular Based Front End, Backend PHP
+
+Shri Infotech Nashik - Nashik, Maharashtra
+September 2019 to December 2019
+Worked on Frontend for Servicefry.com website Using Bootstrap and CI as Backed.
+Worked on admin.familybazar.co.in Website for Desktop and Mobile, and Converted the Mobile Site to Android Applica on using Android S dio.
+
+------Education
+
+Master's in Computer Science
+K.S.K.W College - Nashik, Maharashtra
+Present
+
+Bachelor's in Computer Science
+K.S.K.W College - Nashik, Maharashtra
+
+---Skills / IT Skills
+
+Bootstrap 4
+API Integration
+Troubleshooting
+HTML & CSS
+Familiar with Laravel and React
+Jquery and Javascript
+MySql
+
+Codeignitor 3 & MVC
+Angular
+
+PHP
+
+Certifications / Licenses
+
+Full stack Developer
+Completed Full-Stack Developer Certified course from Seed Infotech, Nashik.
